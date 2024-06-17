@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "abteilung": [
+    { "id": 1, "abteilungsleiter": "Tevin Keller", "kostenstelle": 1 },
+    { "id": 2, "abteilungsleiter": "Monte", "kostenstelle": 2 },
+    { "id": 3, "abteilungsleiter": "Luke Vater", "kostenstelle": 3 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "projekte": [
+    { "id": 1, "projektleiter": "McFly", "kostenstelle": 4 },
+    { "id": 2, "projektleiter": "McLovin", "kostenstelle": 5 },
+    { "id": 3, "projektleiter": "Tree", "kostenstelle": 6 }
+  ]
 }
