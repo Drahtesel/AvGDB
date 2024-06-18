@@ -1,12 +1,12 @@
 {
   "abteilung": [
     { "id": 1, "vorgesetzter": "Tevin Keller", "kostenstelle": 1 },
-    { "id": 2, "vorgesetzter": "Monte", "kostenstelle": 2 },
-    { "id": 3, "vorgesetzter": "Luke Vater", "kostenstelle": 3 }
+    { "id": 2, "vorgesetzter": "Jamal Musiala", "kostenstelle": 2 },
+    { "id": 3, "vorgesetzter": "Ankin Skywalker", "kostenstelle": 3 }
   ],
   "projekte": [
-    { "id": 1, "projektleiter": "McFly", "kostenstelle": 4 },
-    { "id": 2, "projektleiter": "McLovin", "kostenstelle": 5 },
-    { "id": 3, "projektleiter": "Tree", "kostenstelle": 6 }
+    { "id": 1, "projektleiter": "Martin McFly", "kostenstelle": 4 },
+    { "id": 2, "projektleiter": "Bilbo Beutlin", "kostenstelle": 5 },
+    { "id": 3, "projektleiter": "Jackie Chan", "kostenstelle": 6 }
   ]
 }
